@@ -3,6 +3,7 @@
 1. Fetch the sources
    
    $ repo init -u https://github.com/AtomarMent/rpi4_manifest.git -b master -m manifest.xml 
+
    $ repo sync
 
 2. Set the build environment
