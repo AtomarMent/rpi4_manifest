@@ -34,4 +34,6 @@
 
    $ bitbake core-image-base
 
+6. dd to a SD card the generated sdimg file (use xzcat if rpi-sdimg.xz is used)
+
 
